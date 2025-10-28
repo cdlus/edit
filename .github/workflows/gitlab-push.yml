@@ -3,6 +3,8 @@ on:
   push:
     branches: ["**"]
     tags: ["**"]
+  workflow_dispatch:
+
 jobs:
   mirror:
     runs-on: ubuntu-latest
@@ -10,14 +12,22 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.GITLAB_SSH_KEY }}" > ~/.ssh/id_rsa
+          printf "%s" "${{ secrets.GITLAB_SSH_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
-      - name: Push mirror
+
+      - name: Add GitLab remote
+        run: git remote add gitlab git@gitlab.com:cdlus/fmhy.git
+
+      - name: Push branches and tags (no hidden refs)
         run: |
-          git remote add gitlab git@gitlab.com:cdlus/fmhy.git
-          # push all refs and deletions
-          git push --mirror gitlab
+          # ensure local view is current
+          git fetch --prune origin
+          # mirror branches and delete removed ones
+          git push --prune gitlab "refs/heads/*:refs/heads/*"
+          # mirror tags and delete removed ones
+          git push --prune gitlab "refs/tags/*:refs/tags/*"
