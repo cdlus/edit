@@ -85,6 +85,8 @@
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
 * ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / Windows, Mac, Linux / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, Mac, Linux
+* ⭐ **[rTorrent](https://rakshasa.github.io/rtorrent/)** - Torrent Client / Linux / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [GitHub](https://github.com/rakshasa/rtorrent)
+* [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontends
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
 * [Tixati](https://tixati.com/) - Torrent Client / Windows, Linux, Android
 * [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare / Windows, Mac, Linux
@@ -92,15 +94,9 @@
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - Torrent Client / Windows
 * [PikaTorrent](https://www.pikatorrent.com/) - Torrent Client / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
 * [Distribyted](https://distribyted.com/) - Torrent Client / Windows, Linux / [GitHub](https://github.com/distribyted/distribyted)
-* [rTorrent](https://rakshasa.github.io/rtorrent/) - Torrent Client / Linux / [GitHub](https://github.com/rakshasa/rtorrent)
-* [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontend
-* rTorrent Tools - [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
 * [Fragments](https://apps.gnome.org/Fragments/) - Torrent Client / Linux
 * [BitFlu](https://bitflu.workaround.ch/) - Torrent Client / Linux
 * [kTorrent](https://apps.kde.org/ktorrent/), [2](https://invent.kde.org/network/ktorrent) - Torrent Client / Linux
-* [Instant.io](https://instant.io/) - Stream Torrents in Browser
-* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
-* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
@@ -139,6 +135,10 @@
 
 ***
 
+## ▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)
+
+***
+
 # ► Private Trackers
 
 * 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [Private_Trackers](https://igwiki.lyci.de/wiki/Private_trackers), [The Sheet](https://inviteroute.github.io/sheet/), [Graph](https://inviteroute.github.io/graph/) or [Invite.icu](https://invite.icu/) - Private Tracker Guides
@@ -157,7 +157,6 @@
 # ► Helpful Sites / Apps
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
-* ↪️ **[Auto Torrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)**
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)**, **[Pre Database](https://predataba.se)**, [Xrel](https://www.xrel.to), [NG Pre](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
