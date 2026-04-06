@@ -12,12 +12,12 @@
 
 ## ▷ Official Model Sites
 
+* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V3.2 / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM-5-Turbo / Slides / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Grok](https://grok.com/)** - Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / [Rate Display](https://greasyfork.org/en/scripts/558017), [2](https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3 Flash (unlimited) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.5 (Thinking) / Slides / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
-* ⭐ **[DeepSeek](https://chat.deepseek.com/)** - DeepSeek V3.2 / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-5.1 / Unlimited / [Reasoning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/better-reasoning.md)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.5-397B-A17B / Qwen3.6-Plus / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [ChatGPT](https://chatgpt.com/) - GPT-5.3 Instant / [r/OpenAI](https://www.reddit.com/r/OpenAI/) / [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/chatgpt-limits.md) 
@@ -43,7 +43,7 @@
 * [⁠ISH](https://beta.ish.chat/) - Claude Opus 4.6 / Claude Sonnet 4.6 / Multiple Models / [Token Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/ish.md) / [Subreddit](https://www.reddit.com/r/Ishchat/) / [Discord](https://discord.gg/cwDTVKyKJz)
 * [⁠Element Flash](https://flash.kernal.bid/) - Multiple Models / Queue (if traffic is high) / Requires Sign-Up / [Discord](https://discord.gg/RwNb8YrHQX)
 * [Pollinations Chat](https://pollinations-chat.vercel.app/), [2](https://pollinations.ai/play), [3](https://ai-studio.puter.site/index.html), [4](https://hey-hi.space/unified) - GLM-5 / Kimi K2.5 / Deepseek 3.2 / [Limits](https://enter.pollinations.ai/) / [Discord](https://discord.com/invite/pollinations-ai-885844321461485618)
-* [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / [Discord](https://discord.gg/rdBN6TYf66)
+* [⁠Woozlit](https://woozlit.com/) - Gemini 3.1 Pro / GPT-5.2 / Kimi K 2.5 / Multiple Models / ≈1900 Monthly / Requires Sign-Up / [Discord](https://discord.gg/rdBN6TYf66)
 * [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct) - Multiple Models / Sign-Up (Direct Mode) / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [⁠Together.ai](https://chat.together.ai/) - GLM-5 / Kimi K2.5 / Up To 110 Daily / [Discord](https://discord.gg/9Rk6sSeWEG)
 * [NVIDIA NIM](https://build.nvidia.com/models) - GLM-5 / Kimi K2.5 / No Sign-Up
