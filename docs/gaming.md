@@ -116,11 +116,11 @@
 
 ## ▷ Indie Games
 
+* 🌐 **[Indie Rentry](https://rentry.org/hhtxv7ud)** - Indie Games List
 * ↪️ **[Indie Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_indie_browser_games)**
 * ⭐ **[itch.io](https://itch.io/games/new-and-popular/featured/free)** - Indie Games / [Discord](https://discord.gg/qDaYeXPsRK)
 * ⭐ **itch.io Tools** - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Mobile](https://sr.ht/~gardenapple/mitch/) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
 * [Spinneret Repacks](https://spinneretrepacks.qzz.io/) - Indie Game Repacker ⁠/ [Discord](https://discord.gg/bkCzeZWrDt)
-* [Indie Rentry](https://rentry.org/hhtxv7ud) - Indie Games
 * [Killed By A Pixel](https://frankforce.com/all-games/) - Indie Games
 * [Gamdie](https://gamdie.com/) - Indie Games / [Discord](https://discord.gg/cDKH3R4nR2)
 * [DigiPen](https://games.digipen.edu/) - Indie Games
@@ -602,7 +602,6 @@
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Requires Sign-Up
 * [MahjongFun](https://www.mahjongfun.com/), [⁠Mahjong Solitaire](https://mahjong-solitaire.app/), [⁠Voxjong](https://voxjong.com/), [Classic Mahjong](https://classic-mahjong.com/), [The Mahjong](https://themahjong.com/) or [Mahjong 4 Friends](https://mahjong4friends.com/) - Mahjong Solitaire
 * [lishogi.org](https://lishogi.org/) - Shogi / [Discord](https://discord.gg/YFtpMGg3rR) / [GitHub](https://github.com/WandererXII/lishogi)
-* [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
 * [lidraughts.org](https://lidraughts.org/) - Multiplayer Checkers / [GitHub](https://github.com/RoepStoep/lidraughts)
 * [Colonist](https://colonist.io/) - Settlers of Catan Board Game / [Subreddit](https://www.reddit.com/r/Colonist/) / [Discord](https://discord.gg/colonist)
 * [Party Project](https://char64.itch.io/partyproject) - Mario Party-Style Tabletop Games / [Discord](https://discord.gg/nhUQwpGEQR)
@@ -659,6 +658,25 @@
 * [PySolFC](https://pysolfc.sourceforge.io/) - Portable Solitaire App / Windows, Mac, Linux / [GitHub](https://github.com/shlomif/PySolFC)
 * [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Online Blackjack
 * [Poker Now](https://www.pokernow.club/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
+
+***
+
+## ▷  Go / Baduk / Weiqi
+
+* 🌐 **[Go Magic: How to Play Go](https://gomagic.org/how-to-play-go-rules/)** - Beginner Go Tutorial
+* 🌐 **[r/baduk](https://old.reddit.com/r/baduk/)** – Reddit community for Go / Baduk / Weiqi
+* ⭐ **[Online Go Server (OGS)](https://online-go.com/)** – Modern Online Go Platform / [GitHub](https://github.com/online-go)
+* ⭐ **[Sensei's Library](https://senseis.xmp.net/)** – Comprehensive Go Wikipedia 
+* ⭐ **[Sabaki](https://sabaki.yichuanshen.de/)** – Elegant Go Board & SGF Editor 
+* [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
+* [KataGo Training](https://katagotraining.org/) – Open-source neural network Go AI
+* [The Interactive Way To Go](https://playgo.to/en) – Interactive beginner tutorial 
+* [Josekipedia](https://www.josekipedia.com/) – Dictionary for corner openings
+* [Waltheri's Go Pattern Search](http://ps.waltheri.net/) – Pro game pattern search engine
+* [GoProblems](https://goproblems.com/) – Tactical puzzle database
+* [GoKibitz](https://gokibitz.com/) – Game reviews and community feedback
+* [KGS Go Server](https://www.gokgs.com/) – Classic server / Teaching Community
+* [Igowin](https://smart-games.com/igowin.html) – 9x9 desktop Go AI for beginners
 
 ***
 
