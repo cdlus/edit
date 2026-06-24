@@ -108,13 +108,14 @@
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, Mac, Linux
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, Mac, Linux, Web
-* [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows 
+* [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
 * [WeeChat](https://weechat.org/) - Chat App / Mac, Linux
 * [Jam](https://jam.systems/) - Voice Chat / Web
 * [TeaSpeak](https://teaspeak.de/gb/) - Voice Chat / Windows, Linux, Web
-* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md) / Windows, Mac, Linux
+* [TeamSpeak](https://www.teamspeak.com/) - Voice Chat / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/teamspeak-warning.md)
 * [Twist](https://twist.com/) - Collaboration Chat Manager / All Platforms
-* [Altus](https://github.com/amanharwara/altus) / Windows, Mac, Linux or [WAO](https://dedg3.com/wao/) / Windows, Mac - WhatsApp Clients
+* [Altus](https://github.com/amanharwara/altus)- WhatsApp Client / Windows, Mac, Linux
+* [WAO](https://dedg3.com/wao/) - WhatsApp Client / Windows, Mac
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Requires Root / Windows, Mac, Linux
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates / Web
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers / Web
